@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there+I'm+computer+science+student)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5002&pause=100&color=008100&random=false&width=700&lines=Hi+there!+I'am+Leonid+frontend+developer" alt="Typing SVG" /></a>
 <!--
 **Leonidtemniy/Leonidtemniy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
